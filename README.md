@@ -16,6 +16,7 @@ Cost optimization in cloud environments is crucial, especially for startups and 
 ---
 
 ## Architecture
+![image](https://github.com/user-attachments/assets/e7412709-095d-4d86-857a-3db443b84e60)
 
 - **AWS Lambda** function written in Python (Boto3)
 - **CloudWatch Scheduler** (EventBridge) to run daily/weekly
